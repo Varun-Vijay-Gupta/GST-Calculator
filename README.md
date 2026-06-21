@@ -156,6 +156,6 @@ This project is open source and free to use for personal and portfolio purposes.
 
 ---
 
-Built by **Your Full Name** · [your@email.com](mailto:your@email.com)
+Built by **Varun Gupta** · [vg9584911@gmail.com](mailto:vg9584911@gmail.com)
 
 [Built for Digital Heroes](https://digitalheroesco.com)
